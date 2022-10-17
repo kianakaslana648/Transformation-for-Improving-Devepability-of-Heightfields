@@ -1,4 +1,4 @@
-# Transformation-of-Improving-Devepability-of-Heightfields
+# Transformation-for-Improving-Devepability-of-Heightfields
 
 ### Introduction
 
